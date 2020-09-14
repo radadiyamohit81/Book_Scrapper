@@ -7,7 +7,7 @@ Collection of scrapers for getting data of IT ebooks i.e title, author, file siz
 Clone this repository:
 
 ```shell
-$ git clone https://github.com/thetruefuss/books-scraper.git
+$ git clone https://github.com/radadiyamohit81/Book_Scrapper.git
 ```
 
 Install requirements:
